@@ -3,4 +3,5 @@ The main.py sends epic number to detail.py and logs failed epic number whose cap
 
 To Run:
 1. Install ddddocr (use Python 3.9)
-2. python main.py
+2. pip install -r requirements.txt
+3. python main.py
