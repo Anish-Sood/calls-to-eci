@@ -5,3 +5,7 @@ To Run:
 1. Install ddddocr (*use Python 3.9*)
 2. pip install -r requirements.txt
 3. python main.py
+
+Added Feature:
+Multiple requests can now be sent to speed up the JSON fetching process.
+Use streamofepic.py
